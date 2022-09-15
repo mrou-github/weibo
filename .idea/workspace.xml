@@ -20,9 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1843a46c-4f7f-42e9-a771-815af1a0a139" name="默认的" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+>>>>>>> modeling-users
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,9 +198,13 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="760" y="423" key="NewPhpFileDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663225082511" />
-    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1663224980542">
+    <state x="590" y="184" width="739" height="664" key="find.popup" timestamp="1663230023263">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663224980542" />
+    <state x="590" y="184" width="739" height="664" key="find.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663230023263" />
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup" timestamp="1663229571805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663229571805" />
   </component>
 </project>
